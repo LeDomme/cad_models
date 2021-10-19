@@ -1,4 +1,4 @@
-# Udoo x86 Rack Mount on a modular system 19" 2U
+# Raspberry Pi 4B+ HomeMatic RPI-RF-MOD RackMount on a modular system 19" 2U
 This is a simple rackmount cover for the modular system 19" 2u rack for the Raspberry Pi 4B+ with the RPI-RF-MOD CCU3 Module for HomeMatic
 You can get the Frame on [Amazon](https://www.amazon.com?linkCode=ll2&tag=thingiverse09-20&linkId=e4759bff1fa9a55a0f897d801ce2d765&language=en_US&ref_=as_li_ss_tl) or directly from the Distributor
 
