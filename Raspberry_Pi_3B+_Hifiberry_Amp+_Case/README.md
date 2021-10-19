@@ -6,6 +6,7 @@ I've used a random 30x30x10mm Fan from amazon.
 
 ## Print Settings
 Supports: Yes
+
 Notes: Would suggest to add support for the connector part. elsewhere is no support needed, designed with 3D printing in mind.
 
 
