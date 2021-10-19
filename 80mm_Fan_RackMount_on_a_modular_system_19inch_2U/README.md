@@ -12,7 +12,7 @@ Supports: no
 
 
 This project can also be found on thingiverse:
-https://www.thingiverse.com/thing:4578528
+https://www.thingiverse.com/thing:4579795
 
 ![Preview](https://github.com/LeDomme/cad_models/blob/main/80mm_Fan_RackMount_on_a_modular_system_19inch_2U/res/Front.png)
 ![Preview](https://github.com/LeDomme/cad_models/blob/main/80mm_Fan_RackMount_on_a_modular_system_19inch_2U/res/Rack_Front.png)
