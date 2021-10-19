@@ -1,4 +1,4 @@
-# Raspberry Pi 3 B+ Hifiberry Amp+ Case
+# Beefier Buttstock for VRGM VR
 Buttstock broke two times while assembly, so I beefed it up.
 
 Remix from [https://www.thingiverse.com/thing:2828833](https://www.thingiverse.com/thing:2828833)
