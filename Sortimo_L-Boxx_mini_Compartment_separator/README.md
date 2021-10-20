@@ -8,6 +8,8 @@ I’ve completely designed the separators new, because of the non-symmetric lid 
 The separators are only half the compartment size to safe print time and filament, I used double-sided tape to secure the separators.  
 The separators reach the lid, so nothing will get mixed.
 
+Hint: The lettering is only visible in the slicer and will not be part of the final print :)
+
 ## Print Settings
 Supports: no
 
