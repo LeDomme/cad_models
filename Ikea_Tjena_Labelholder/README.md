@@ -16,4 +16,4 @@ https://www.thingiverse.com/thing:4727139
 
 ![Preview](https://github.com/LeDomme/cad_models/blob/main/Ikea_Tjena_Labelholder/res/tjena_large.jpg)
 ![Preview](https://github.com/LeDomme/cad_models/blob/main/Ikea_Tjena_Labelholder/res/tjenja_small_1.jpg)
-![Preview](https://github.com/LeDomme/cad_models/blob/main/VRGM_VR_Grips_for_Oculus_Quest_2/res/Quest_2_Stockmount_20mm.png)
+![Preview](https://github.com/LeDomme/cad_models/blob/main/Ikea_Tjena_Labelholder/res/tjenja_small_2.jpg)
