@@ -11,5 +11,5 @@ Supports: no
 
 
 
-![Preview](https://github.com/LeDomme/cad_models/blob/main/Sortimo_L-Boxx_mini_Compartment_separator/res/picture_1.png)
-![Preview](https://github.com/LeDomme/cad_models/blob/main/Sortimo_L-Boxx_mini_Compartment_separator/res/picture_2.png)
+![Preview](https://github.com/LeDomme/cad_models/blob/main/Voron0_4_3_Display/res/picture_1.png)
+![Preview](https://github.com/LeDomme/cad_models/blob/main/Voron0_4_3_Display/res/picture_2.png)
