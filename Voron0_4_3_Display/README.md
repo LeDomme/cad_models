@@ -1,4 +1,3 @@
-
 # Voron 0 Display
 
 4.3" Screenmount for the Voron 0 directly mountet on the Tophat
@@ -7,6 +6,9 @@ The Display I've used:
 4.3inch Capacitive Touch Display for Raspberry Pi, DSI Interface, 800×480
 https://www.waveshare.com/4.3inch-dsi-lcd.htm
 https://smile.amazon.de/gp/product/B08CH24YYD?psc=1
+
+Mounted with m3 scews directly to the Tophat Panel with the included brass standoffs
+Flexcable can be glued with doublesided tape directly to the Tophat Panels
 
 
 ## Print Settings
